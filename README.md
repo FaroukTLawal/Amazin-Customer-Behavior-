@@ -15,6 +15,8 @@
 ### Project Overview
 
 This data analysis project aims to understand how customers interact with the platform,identify patterns in their browsing and purchasing behavior, uncover insights to optimize user experience and improve customer satisfaction
+![amazon dashboard](https://github.com/FaroukTLawal/Amazon-Customer-Behavior-/assets/153385880/da4a951e-e24f-4e05-b43d-41215c2a1985)
+
 
 ### Data Source
 
