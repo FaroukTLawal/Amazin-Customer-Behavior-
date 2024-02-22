@@ -1,0 +1,30 @@
+Purchase categories ,purchase categories count
+Beauty and Personal Care,106
+Clothing and Fashion,106
+others,48
+Beauty and Personal Care;Clothing and Fashion,46
+Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,42
+Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,32
+Clothing and Fashion;Home and Kitchen,27
+Home and Kitchen,24
+Beauty and Personal Care;Home and Kitchen,21
+Clothing and Fashion;Home and Kitchen;others,16
+Clothing and Fashion;others,14
+Groceries and Gourmet Food,14
+Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,14
+Beauty and Personal Care;Clothing and Fashion;others,12
+Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,10
+Home and Kitchen;others,9
+Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,8
+Beauty and Personal Care;others,7
+Groceries and Gourmet Food;Beauty and Personal Care,7
+Groceries and Gourmet Food;Clothing and Fashion,6
+Groceries and Gourmet Food;Home and Kitchen;others,6
+Groceries and Gourmet Food;Home and Kitchen,5
+Beauty and Personal Care;Home and Kitchen;others,5
+Groceries and Gourmet Food;Beauty and Personal Care;Home and Kitchen,4
+Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen,4
+Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen;others,3
+Groceries and Gourmet Food;Beauty and Personal Care;others,3
+Groceries and Gourmet Food;Clothing and Fashion;others,2
+Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;others,1
